@@ -185,19 +185,6 @@ International Indian School, Riyadh, Saudi Arabia
 - ✅ **Forage:** PwC Switzerland Cybersecurity Job Simulation
 - ✅ **Forage:** Accenture North America Data Analytics and Visualization Job Simulation
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MishalHQ&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MishalHQ&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MishalHQ&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
@@ -233,15 +220,15 @@ International Indian School, Riyadh, Saudi Arabia
 ```
 ┌─────────────────────────────────────────────────────────────┐
 │  🔐 Cybersecurity        │  🤖 AI/ML Development           │
-│  • Risk Assessment       │  • Deep Learning                │
-│  • Security Protocols    │  • Computer Vision              │
-│  • Threat Analysis       │  • Image Processing             │
-│  • Ethical Hacking       │  • Model Training               │
+│  • Risk Assessment       │  • Deep Learning                 │
+│  • Security Protocols    │  • Computer Vision               │
+│  • Threat Analysis       │  • Image Processing              │
+│  • Ethical Hacking       │  • Model Training                │
 ├─────────────────────────────────────────────────────────────┤
 │  🌐 Web Development      │  🎮 Game QA Testing             │
-│  • Full-Stack Dev        │  • Bug Reporting                │
-│  • Database Management   │  • Jira/TestRail                │
-│  • Responsive Design     │  • Quality Assurance            │
+│  • Full-Stack Dev        │  • Bug Reporting                 │
+│  • Database Management   │  • Jira/TestRail                 │
+│  • Responsive Design     │  • Quality Assurance             │
 └─────────────────────────────────────────────────────────────┘
 ```
 
