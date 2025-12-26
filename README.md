@@ -1,12 +1,13 @@
 <div align="center">
 
-# 👋 Hi, I'm Mohammed Mishal
+# 👋 Hi, I'm M A Mohammed Mishal
 
-### 🎮 Game QA Tester | 🔐 Cybersecurity Enthusiast | 💻 Developer
+### 🎮 Game QA Tester @ Indium Software | 🔐 Cybersecurity Enthusiast | 💻 Information Science Engineering Student
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome)](https://mishalhq.github.io/mishal-portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mohammed-mishal)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:mohammedmishal2004@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/m-a-mohammed-mishal-1b473b265)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:11b51570mishal@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-Download-success?style=for-the-badge&logo=adobe-acrobat-reader)](https://nyc3.digitaloceanspaces.com/bhindi-drive/files/e5deed0f-abc8-45ec-836f-23c9ff59a0a6/2025-12-26T20-29-12-946Z-1720f743-M_A_Mohammed_Mishal_Resume.pdf)
 
 </div>
 
@@ -14,77 +15,175 @@
 
 ## 🚀 About Me
 
+> *"A goal-oriented Information Science Engineering student with a passion for mastering emerging technologies. Skilled at transforming ideas into actionable projects, with a strong focus on innovation."*
+
 ```python
 class MohammedMishal:
     def __init__(self):
-        self.name = "Mohammed Mishal"
+        self.name = "M A Mohammed Mishal"
         self.location = "Bangalore, Karnataka 🇮🇳"
-        self.role = "Game QA Tester"
-        self.interests = ["Cybersecurity", "Cloud Computing", "AI/ML", "Game Development"]
-        self.research = "Published @ IC3C-2025"
+        self.education = "B.E. in Information Science Engineering @ B.M.S.I.T (2022-2026)"
+        self.current_role = "Game QA Tester @ Indium Software"
+        self.research = "Published @ IC3C-2025 Conference"
         
-    def get_skills(self):
+    def get_experience(self):
         return {
-            "languages": ["Python", "Java", "PHP", "JavaScript"],
-            "domains": ["Cybersecurity", "Cloud & Networking", "QA Testing"],
-            "tools": ["Git", "XAMPP", "VS Code", "PyCharm"],
-            "currently_learning": ["Advanced Python", "Cloud Architecture"]
+            "current": "Game QA Tester @ Indium Software (Nov 2024 - Present)",
+            "internships": [
+                "AI Intern @ CodSoft (Sep-Oct 2024)",
+                "Web Dev Intern @ SkillCraft Technology (Sep-Oct 2024)"
+            ],
+            "tools": ["Jira", "TestRail", "Slack"]
         }
+    
+    def get_expertise(self):
+        return ["Cybersecurity", "AI/ML", "Web Development", "Game Testing", "Risk Assessment"]
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## 💼 Professional Experience
 
-### Languages
+### 🎮 **Game QA Tester** | Indium Software
+*November 2024 - Present*
+- Testing PC game builds for functionality, stability, visual issues, and gameplay quality
+- Logging detailed bug reports in Jira with video evidence and reproducible scenarios
+- **Tools:** Jira, TestRail, Slack
+
+### 🤖 **Artificial Intelligence Intern** | CodSoft
+*September 2024 - October 2024*
+- Developed AI-based solutions to enhance workflow efficiency
+- Trained and deployed machine learning models
+
+### 🌐 **Web Development Intern** | SkillCraft Technology
+*September 2024 - October 2024*
+- Designed and optimized user interfaces using HTML, CSS, JavaScript
+- Received Letter of Recommendation for reliable performance
+
+---
+
+## 🛠️ Technical Skills
+
+### 🔐 Cybersecurity
+![Security](https://img.shields.io/badge/Risk_Assessment-Expert-red?style=for-the-badge)
+![Protocols](https://img.shields.io/badge/Security_Protocols-Experienced-orange?style=for-the-badge)
+![Threat Analysis](https://img.shields.io/badge/Threat_Analysis-Skilled-yellow?style=for-the-badge)
+
+**Skills:** Risk Assessments • Security Protocols • Cyber Threat Analysis • Ethical Hacking
+
+### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🌐 Web Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Domains & Tools
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=hackaday&logoColor=white)
-![Cloud](https://img.shields.io/badge/Cloud-0089D6?style=for-the-badge&logo=icloud&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-0078D4?style=for-the-badge&logo=cisco&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### 🧪 Testing & Tools
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![TestRail](https://img.shields.io/badge/TestRail-65C179?style=for-the-badge&logo=testrail&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+
+### 🤖 AI/ML Technologies
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ---
 
 ## 🌟 Featured Projects
 
-### 🎙️ [EchoOS](https://github.com/MishalHQ/EchoOs)
-> Offline voice-controlled operating system with biometric authentication
-- 🔒 100% offline voice control
-- 🎤 Voice biometric authentication
-- ♿ Accessibility-focused design
-- 🚀 Cross-platform support
+### 🧠 [Stress Detection Using Image Processing & Deep Learning](https://github.com/MishalHQ/Stress-Detection)
+**🏆 Published & Presented at IC3C-2025 Conference**
+> Advanced stress-level detection system using facial analysis
+
+**Tech Stack:** Python • OpenCV • DNN • LBP • XGBoost • FACS
+
+**Key Features:**
+- Facial cue analysis for stress classification
+- Real-time emotion detection
+- Deep learning-based accuracy
+- Research-grade implementation
+
+---
 
 ### 🔐 [QR Code Safety Detection System](https://github.com/MishalHQ/QR-Code-Safety-Detection-System)
-> Security tool for detecting and analyzing malicious QR codes
-- 🛡️ Real-time QR code scanning
-- 🔍 Malicious link detection
-- 📊 Security analysis dashboard
+> Security application for detecting malicious QR codes
 
-### 🏨 [Book My Stay](https://github.com/MishalHQ/Book-My-Stay)
-> Hotel booking platform with database integration
-- 🌐 Full-stack web application
-- 💾 PHP & MySQL backend
-- 🎨 Responsive UI design
+**Tech Stack:** Python • Computer Vision • Security Analysis
 
-### 💼 [PayWatch](https://github.com/MishalHQ/paywatch)
-> Financial tracking and management system
-- 💰 Expense tracking
-- 📈 Financial analytics
-- 🔔 Payment reminders
+**Key Features:**
+- Real-time QR code scanning and analysis
+- Phishing and malware link detection
+- Authenticity verification
+- Vulnerability analysis dashboard
 
-### 🧠 [Stress Detection System](https://github.com/MishalHQ/Stress-Detection)
-> AI-powered stress detection using machine learning
-- 🤖 ML-based analysis
-- 📊 Real-time monitoring
-- 💡 Health insights
+---
+
+### 🎙️ [EchoOS - Voice Controlled Operating System](https://github.com/MishalHQ/EchoOs)
+> Offline voice-controlled OS interface with biometric authentication
+
+**Tech Stack:** Python • PySide6 • Vosk • Resemblyzer • OCR
+
+**Key Features:**
+- 🔒 100% offline operation
+- 🎤 Voice biometric authentication
+- ♿ Accessibility-focused design
+- 🖥️ Cross-platform support (Windows, macOS, Linux)
+
+---
+
+### 🏨 [Book My Stay - Hotel Booking Platform](https://github.com/MishalHQ/Book-My-Stay)
+> Full-stack hotel booking website with database integration
+
+**Tech Stack:** PHP • MySQL • XAMPP • HTML • CSS • JavaScript
+
+**Key Features:**
+- User authentication and management
+- Real-time booking system
+- Database-driven architecture
+- Responsive web design
+
+---
+
+### 💰 [PayWatch - Financial Management System](https://github.com/MishalHQ/paywatch)
+> Comprehensive financial tracking and management solution
+
+**Tech Stack:** Python • Database Management
+
+**Key Features:**
+- Expense tracking and categorization
+- Financial analytics and insights
+- Payment reminders
+- Budget management
+
+---
+
+## 🎓 Education
+
+**Bachelor of Engineering in Information Science Engineering**  
+B.M.S. Institute of Technology, Bangalore  
+*2022 - 2026*
+
+**Higher Secondary School (P.C.M.CS)**  
+International Indian School, Riyadh, Saudi Arabia  
+*Graduated: 2022*
+
+---
+
+## 📜 Certifications
+
+### 🎓 IIT Kharagpur - NPTEL
+- ✅ E-Business Certification
+- ✅ Ethical Hacking Certification
+
+### 💼 Industry Certifications
+- ✅ **Infosys Springboard:** Software Engineering Fundamentals - Developing and Testing
+- ✅ **Infosys Springboard:** Advanced Features in Java
+- ✅ **Simplilearn:** Ethical Hacking 101
+- ✅ **Forage:** PwC Switzerland Cybersecurity Job Simulation
+- ✅ **Forage:** Accenture North America Data Analytics and Visualization Job Simulation
 
 ---
 
@@ -92,39 +191,59 @@ class MohammedMishal:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MishalHQ&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MishalHQ&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MishalHQ&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MishalHQ&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MishalHQ&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MishalHQ&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
-## 🏆 Achievements
+## 🏆 Achievements & Highlights
 
-- 📝 **Research Published** at IC3C-2025 Conference
-- 🎮 **Game QA Tester** - Professional experience in quality assurance
-- 💻 **Multiple Projects** across Cybersecurity, Web Dev, and AI/ML
-- 🔐 **Cybersecurity Enthusiast** - Focused on security solutions
-
----
-
-## 📈 Activity Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MishalHQ&theme=react-dark&hide_border=true)](https://github.com/MishalHQ)
+- 📝 **Research Publication:** Stress Detection paper officially selected for presentation at **IC3C-2025 Conference**
+- 🎮 **Professional QA Tester:** Currently testing PC games at **Indium Software**
+- 💼 **Multiple Internships:** Completed AI and Web Development internships with recommendations
+- 🔐 **Cybersecurity Focus:** Specialized in risk assessment and security protocols
+- 🏅 **7+ Industry Certifications** from IIT Kharagpur, Infosys, PwC, Accenture
+- 🚀 **5+ Major Projects** spanning AI/ML, Cybersecurity, and Web Development
 
 ---
 
-## 💼 What I'm Up To
+## 📈 Contribution Activity
 
-- 🔭 Currently working on **Voice-controlled OS automation**
-- 🌱 Learning **Advanced Cloud Architecture & AI/ML**
-- 👯 Looking to collaborate on **Cybersecurity & Open Source Projects**
-- 💬 Ask me about **Python, Java, Cybersecurity, Game Testing**
-- 📫 Reach me at: **mohammedmishal2004@gmail.com**
-- ⚡ Fun fact: **I turn coffee into code and bugs into features!** ☕
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MishalHQ&theme=tokyo-night&hide_border=true&area=true)](https://github.com/MishalHQ)
+
+---
+
+## 💡 What I'm Currently Doing
+
+- 🎮 **Testing PC games** at Indium Software - ensuring quality gameplay experiences
+- 🔬 **Research Work** - Published at IC3C-2025 on stress detection using AI
+- 🌱 **Learning** - Advanced Cybersecurity techniques and Cloud Architecture
+- 💻 **Building** - Innovative projects in AI/ML and Security domains
+- 👯 **Open to collaborate** on Cybersecurity, AI/ML, and Open Source projects
+
+---
+
+## 🎯 Areas of Expertise
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│  🔐 Cybersecurity        │  🤖 AI/ML Development           │
+│  • Risk Assessment       │  • Deep Learning                │
+│  • Security Protocols    │  • Computer Vision              │
+│  • Threat Analysis       │  • Image Processing             │
+│  • Ethical Hacking       │  • Model Training               │
+├─────────────────────────────────────────────────────────────┤
+│  🌐 Web Development      │  🎮 Game QA Testing             │
+│  • Full-Stack Dev        │  • Bug Reporting                │
+│  • Database Management   │  • Jira/TestRail                │
+│  • Responsive Design     │  • Quality Assurance            │
+└─────────────────────────────────────────────────────────────┘
+```
 
 ---
 
@@ -133,8 +252,9 @@ class MohammedMishal:
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-blue?style=for-the-badge)](https://mishalhq.github.io/mishal-portfolio/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/MishalHQ)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail)](mailto:mohammedmishal2004@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/m-a-mohammed-mishal-1b473b265)
+[![Email](https://img.shields.io/badge/Email-Get_In_Touch-D14836?style=for-the-badge&logo=gmail)](mailto:11b51570mishal@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github)](https://github.com/MishalHQ)
 
 </div>
 
@@ -142,10 +262,22 @@ class MohammedMishal:
 
 <div align="center">
 
-### 💡 "Code is like humor. When you have to explain it, it's bad." - Cory House
+### 💭 Quote I Live By
 
-![Profile Views](https://komarev.com/ghpvc/?username=MishalHQ&color=blueviolet&style=for-the-badge)
+*"Innovation distinguishes between a leader and a follower."* - Steve Jobs
 
-**⭐ From [MishalHQ](https://github.com/MishalHQ) with ❤️**
+---
+
+### 📫 How to Reach Me
+
+**📧 Email:** 11b51570mishal@gmail.com  
+**📱 Phone:** +91 8660455157  
+**📍 Location:** Bangalore, Karnataka, India
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=MishalHQ&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+
+**⭐ From [MishalHQ](https://github.com/MishalHQ) | Building the future, one commit at a time 🚀**
 
 </div>
